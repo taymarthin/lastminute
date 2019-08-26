@@ -4,6 +4,6 @@ language:
   - cpp
 compiler:
   - gcc
-script:
+build:
   # Run your build commands next
   ./gradlew build
