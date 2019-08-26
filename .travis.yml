@@ -1,9 +1,1 @@
-dist: trusty
-sudo: required
-language:
-  - cpp
-compiler:
-  - gcc
-build:
-  # Run your build commands next
-  ./gradlew build
+language: cpp
