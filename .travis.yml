@@ -1,1 +1,8 @@
 language: c++
+install: true
+
+os: linux
+dist: trusty
+
+script:
+  - ./gradlew build --scan -s
