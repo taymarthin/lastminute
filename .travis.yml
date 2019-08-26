@@ -1,2 +1,2 @@
-language: cpp
+language: groovy
 script: ./gradlew build
